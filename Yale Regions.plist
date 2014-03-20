@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>SigPhiEp</string>
+		<key>ID</key>
+		<integer>4</integer>
+		<key>Rect1</key>
+		<string>{41.307144, -72.930779}</string>
+		<key>Rect2</key>
+		<string>{41.307065, -72.930582}</string>
+		<key>Rect3</key>
+		<string>{41.306964, -72.930652}</string>
+		<key>Rect4</key>
+		<string>{41.307036, -72.930862}</string>
+		<key>radius</key>
+		<integer>10</integer>
+		<key>mid_lat</key>
+		<real>41.307067</real>
+		<key>mid_long</key>
+		<real>-72.930757</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>SigNu</string>
+		<key>ID</key>
+		<integer>4</integer>
+		<key>Rect1</key>
+		<string>{41.307332, -72.930662}</string>
+		<key>Rect2</key>
+		<string>{41.307267, -72.930471}</string>
+		<key>Rect3</key>
+		<string>{41.307208, -72.930522}</string>
+		<key>Rect4</key>
+		<string>{41.307277, -72.930709}</string>
+		<key>radius</key>
+		<integer>5</integer>
+		<key>mid_lat</key>
+		<real>41.307273</real>
+		<key>mid_long</key>
+		<real>-72.930606</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>DKEpsilon</string>
+		<key>ID</key>
+		<integer>4</integer>
+		<key>Rect1</key>
+		<string>{41.314441, -72.931795}</string>
+		<key>Rect2</key>
+		<string>{41.314494, -72.931694}</string>
+		<key>Rect3</key>
+		<string>{41.314377, -72.931604}</string>
+		<key>Rect4</key>
+		<string>{41.314340, -72.931709}</string>
+		<key>radius</key>
+		<integer>8</integer>
+		<key>mid_lat</key>
+		<real>41.314417</real>
+		<key>mid_long</key>
+		<real>-72.93171</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>AEPi</string>
+		<key>ID</key>
+		<integer>4</integer>
+		<key>Rect1</key>
+		<string>{41.308348, -72.935037}</string>
+		<key>Rect2</key>
+		<string>{41.308388, -72.935143}</string>
+		<key>Rect3</key>
+		<string>{41.308534, -72.935025}</string>
+		<key>Rect4</key>
+		<string>{41.308502, -72.934928}</string>
+		<key>radius</key>
+		<integer>6</integer>
+		<key>mid_lat</key>
+		<real>41.308438</real>
+		<key>mid_long</key>
+		<real>-72.935045</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>ADPhi</string>
+		<key>ID</key>
+		<integer>4</integer>
+		<key>Rect1</key>
+		<string>{41.315289, -72.929957}</string>
+		<key>Rect2</key>
+		<string>{41.315316, -72.929823}</string>
+		<key>Rect3</key>
+		<string>{41.315165, -72.929788}</string>
+		<key>Rect4</key>
+		<string>{41.315136, -72.929910}</string>
+		<key>radius</key>
+		<integer>8</integer>
+		<key>mid_lat</key>
+		<real>41.315247</real>
+		<key>mid_long</key>
+		<real>-72.92988699999999</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Sigma Alpha Epsilon</string>
+		<key>ID</key>
+		<integer>4</integer>
+		<key>Rect1</key>
+		<string>{41.307275, -72.930713}</string>
+		<key>Rect2</key>
+		<string>{41.307221, -72.930587}</string>
+		<key>Rect3</key>
+		<string>{41.307142, -72.930654}</string>
+		<key>Rect4</key>
+		<string>{41.307189, -72.930778}</string>
+		<key>radius</key>
+		<integer>6</integer>
+		<key>mid_lat</key>
+		<real>41.307205</real>
+		<key>mid_long</key>
+		<real>-72.930689</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Zeta Psi</string>
+		<key>ID</key>
+		<integer>4</integer>
+		<key>Rect1</key>
+		<string>{41.313356, -72.933393}</string>
+		<key>Rect2</key>
+		<string>{41.313486, -72.933290}</string>
+		<key>Rect3</key>
+		<string>{41.313426, -72.933173}</string>
+		<key>Rect4</key>
+		<string>{41.313298, -72.933302}</string>
+		<key>radius</key>
+		<integer>9</integer>
+		<key>mid_lat</key>
+		<real>41.313401</real>
+		<key>mid_long</key>
+		<real>-72.93331000000001</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Sigma Chi</string>
+		<key>ID</key>
+		<integer>4</integer>
+		<key>Rect1</key>
+		<string>{41.311088, -72.932966}</string>
+		<key>Rect2</key>
+		<string>{41.311032, -72.932812}</string>
+		<key>Rect3</key>
+		<string>{41.310982, -72.932854}</string>
+		<key>Rect4</key>
+		<string>{41.311024, -72.933001}</string>
+		<key>radius</key>
+		<integer>7</integer>
+		<key>mid_lat</key>
+		<real>41.311031</real>
+		<key>mid_long</key>
+		<real>-72.932917</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>SAE</string>
+		<key>ID</key>
+		<integer>4</integer>
+		<key>Rect1</key>
+		<string>{42.382149, -71.121030}</string>
+		<key>Rect2</key>
+		<string>{42.382192, -71.120861}</string>
+		<key>Rect3</key>
+		<string>{42.382110, -71.120839}</string>
+		<key>Rect4</key>
+		<string>{42.382069, -71.120992}</string>
+		<key>radius</key>
+		<integer>9</integer>
+		<key>mid_lat</key>
+		<real>42.382131</real>
+		<key>mid_long</key>
+		<real>-71.12092800000001</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Sig Chi</string>
+		<key>ID</key>
+		<integer>4</integer>
+		<key>Rect1</key>
+		<string>{42.370639, -71.114083}</string>
+		<key>Rect2</key>
+		<string>{42.370672, -71.114136}</string>
+		<key>Rect3</key>
+		<string>{42.370792, -71.114013}</string>
+		<key>Rect4</key>
+		<string>{42.370754, -71.113949}</string>
+		<key>radius</key>
+		<real>9.5</real>
+		<key>midpoint</key>
+		<string>{42.370716,-71.114032}</string>
+		<key>mid_lat</key>
+		<real>42.370716</real>
+		<key>mid_long</key>
+		<real>-71.11403199999999</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Delphic</string>
+		<key>ID</key>
+		<integer>4</integer>
+		<key>Rect1</key>
+		<string>{42.372450, -71.117378}</string>
+		<key>Rect2</key>
+		<string>{42.372507, -71.117633}</string>
+		<key>Rect3</key>
+		<string>{42.372343, -71.117713}</string>
+		<key>Rect4</key>
+		<string>{42.372281, -71.117451}</string>
+		<key>radius</key>
+		<integer>16</integer>
+		<key>midpoint</key>
+		<string>{42.372397,-71.117535}</string>
+		<key>mid_lat</key>
+		<real>42.372397</real>
+		<key>mid_long</key>
+		<real>-71.117535</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Owl</string>
+		<key>ID</key>
+		<integer>4</integer>
+		<key>Rect1</key>
+		<string>{42.371454, -71.118797}</string>
+		<key>Rect2</key>
+		<string>{42.371384, -71.118509}</string>
+		<key>Rect3</key>
+		<string>{42.371524, -71.118431}</string>
+		<key>Rect4</key>
+		<string>{42.371620, -71.118701}</string>
+		<key>radius</key>
+		<integer>18</integer>
+		<key>midpoint</key>
+		<string>{42.371517,-71.118622}</string>
+		<key>mid_lat</key>
+		<real>42.371517</real>
+		<key>mid_long</key>
+		<real>-71.118622</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Spee</string>
+		<key>ID</key>
+		<integer>4</integer>
+		<key>Rect1</key>
+		<string>{42.371973, -71.118884}</string>
+		<key>Rect2</key>
+		<string>{42.371796,  -71.119014}</string>
+		<key>Rect3</key>
+		<string>{42.371713, -71.118799}</string>
+		<key>Rect4</key>
+		<string>{42.371911, -71.118680}</string>
+		<key>radius</key>
+		<real>14.5</real>
+		<key>midpoint</key>
+		<string>{42.371854, -71.118869}</string>
+		<key>mid_lat</key>
+		<real>42.371854</real>
+		<key>mid_long</key>
+		<real>-71.118869</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Phoenix PSK</string>
+		<key>ID</key>
+		<integer>4</integer>
+		<key>Rect1</key>
+		<string>{42.371626, -71.118305}</string>
+		<key>Rect2</key>
+		<string>{42.371688, -71.118478}</string>
+		<key>Rect3</key>
+		<string>{42.371803, -71.118406}</string>
+		<key>Rect4</key>
+		<string>{42.371746, -71.118231}</string>
+		<key>radius</key>
+		<real>15.4</real>
+		<key>midpoint</key>
+		<string>{42.371673,-71.118325}</string>
+		<key>mid_lat</key>
+		<real>42.371673</real>
+		<key>mid_long</key>
+		<real>-71.118325</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>A.D.</string>
+		<key>ID</key>
+		<integer>4</integer>
+		<key>Rect1</key>
+		<string>{ 42.372474, -71.116722}</string>
+		<key>Rect2</key>
+		<string>{ 42.372555, -71.116672}</string>
+		<key>Rect3</key>
+		<string>{ 42.372521, -71.116545}</string>
+		<key>Rect4</key>
+		<string>{ 42.372521, -71.116672}</string>
+		<key>radius</key>
+		<integer>7</integer>
+		<key>midpoint</key>
+		<string>{42.372506,-71.116639}</string>
+		<key>mid_lat</key>
+		<real>42.372506</real>
+		<key>mid_long</key>
+		<real>-71.11663900000001</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Fly</string>
+		<key>ID</key>
+		<integer>6</integer>
+		<key>Rect1</key>
+		<string>{ 42.371491, -71.117598}</string>
+		<key>Rect2</key>
+		<string>{42.371491, -71.117598}</string>
+		<key>Rect3</key>
+		<string>{42.371468, -71.117782}</string>
+		<key>Rect4</key>
+		<string>{42.371468, -71.117782}</string>
+		<key>Rect5</key>
+		<string>{42.371368, -71.117972}</string>
+		<key>Rect6</key>
+		<string>{42.371581, -71.117842}</string>
+		<key>radius</key>
+		<integer>17</integer>
+		<key>midpoint</key>
+		<string>{42.371440,-71.117823}</string>
+		<key>mid_lat</key>
+		<real>42.37144</real>
+		<key>mid_long</key>
+		<real>-71.117823</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Fox</string>
+		<key>ID</key>
+		<integer>4</integer>
+		<key>Rect1</key>
+		<string>{42.372397, -71.119972}</string>
+		<key>Rect2</key>
+		<string>{42.372233, -71.120115}</string>
+		<key>Rect3</key>
+		<string>{42.372282, -71.120228}</string>
+		<key>Rect4</key>
+		<string>{42.372450, -71.120088}</string>
+		<key>radius</key>
+		<integer>14</integer>
+		<key>midpoint</key>
+		<string>{42.372341,-71.120108}</string>
+		<key>mid_lat</key>
+		<real>42.372341</real>
+		<key>mid_long</key>
+		<real>-71.120108</real>
+	</dict>
+</array>
+</plist>
